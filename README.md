@@ -20,7 +20,8 @@ or
 npm install
 npm run dev
 ```
-navigate to localhost:3000. 
+Navigate to localhost:3000
+Any script changes will restart the development server and hot reload the browser.
 
 To build and run in production mode:
 

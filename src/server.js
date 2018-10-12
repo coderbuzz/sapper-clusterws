@@ -13,7 +13,6 @@ new ClusterWS({
 	port: PORT, // specify port of the application
 	worker: Worker, // Worker function must be provided
 	workers: dev ? 1 : require('os').cpus().length,
-	port: 3000,
 	restartWorkerOnFail: true
 }); 
 

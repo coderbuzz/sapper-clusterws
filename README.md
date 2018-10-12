@@ -1,4 +1,4 @@
-# sapper-clusterws
+# Sapper + ClusterWS
 Sapper + ClusterWS Boilerplate
 
 https://sapper.svelte.technology
